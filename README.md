@@ -1,4 +1,4 @@
-# Curso - CS50 - Introduction to Programming with Python
+# CS50 - Introduction to Programming with Python
 
 Este é o repositório do curso "CS50's Introduction to Programming with Python" ministrado pela Universidade de Harvard.
 
